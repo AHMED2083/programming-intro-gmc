@@ -31,7 +31,7 @@ function storeVariables() {
     console.log("After => ", list, " length", list.length);
 }
 
-
+// just for funny...................^-^
 
 // storeVariables();
 
